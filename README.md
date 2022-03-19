@@ -1,11 +1,12 @@
-## GHactions test for my NUS Project
+## GHACTIONS TEST- My NUS Project
 
 ## About Me
 <img src="https://user-images.githubusercontent.com/98994112/159111464-5ab4087a-33d6-4919-bf79-6c47fef82405.jpg" width=20% height=20%>
 
-I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. 
+I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. However, I'll be joining a Digibank soon, and hope to contribute and make a difference by applying my knowledge during projects participation. 
+* [LinkedIn Profile] (https://www.linkedin.com/in/priscillialau/)
 
-## My Learning Objectives- Challenge what I am clueless! 
+## My Learning Objectives from GHACTIONS TEST- Challenge what I am clueless! 
 
 1) To replicate an existing application code for future deployment. 
 2) To make changes on the repository which will trigger a message to Telegram on committed changes.  
@@ -56,4 +57,4 @@ I am a Corporate Banker and I haver ZERO IT/ Programming knowledge.
 
 ## Outcome 1- The Commit Changes worked!!!
 ## Outcome 2- The bot works and a message was really sent!!! (after 10million trial and error)
-## Outcome 3- I learnt how to add images to ReadMe files too! 
+## Outcome 3- I learnt how to add images to ReadMe files and used html to shrink the image size too! 
