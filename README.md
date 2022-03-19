@@ -19,21 +19,36 @@ I am a Corporate Banker and I haver ZERO IT/ Programming knowledge.
 - Choose a "webhook service" (IF)
 - Created an Event Name - which "sendsTGmessage_onchange"
 - Choose to integrate it to Telegram (THEN THAT)
+- Configure integration with your username, and this will connect to Telegram 
 
-6) Head to IFTT webhook page and click documentations to get a unique IFTTT Webhook URL @ https://ifttt.com/maker_webhooks
-7) Updated the CURL function in the YML file with key changes made to the "event" and "unique IFTTT Webhook url link"
-8) Ensure integration with Telegram is successful
+6) Go to Telegram
+- Give permission to IFTTT bot on Telegram to connect with your account. 
+- Create a New Channel on Telegram; ensure channel is selected in IFTTT and calibrate the message structure in IFTTT. Make sure IFTTT is an administrator in the channel. 
+- Type: /connect_channel to IFTTT bot on Telegram 
+- Confirm the channelname by typing it. 
+- Obtain confirmation on successful connection! 
 
-
-## Outcome 1- The bot works!!!
-
-## Outcome 2- The Commit Changes worked!!!
+7) Head to IFTT webhook page and click documentations to get a unique IFTTT Webhook URL @ https://ifttt.com/maker_webhooks
+8) Updated the CURL function in the YML file with key changes made to the "event" and "unique IFTTT Webhook url link"
+9) Test it out, commit the changes on Readme/ YML/ add a new file, etc. Workflow is fired and message should trigger on Telegram!
+10) If there is a connection issue/ no message is 'triggered', ensure integration with Telegram is successful and ask questions: 
+- Did you choose the right channel in IFTTT? 
+- Did you name your event correctly in your CURL function? 
+- Is your IFTTT Webhook link correct? 
+- Is there some error on your CURL functions? 
+11) Otherwise, ask a friend! 
 
 ## What was difficult? 
-Getting an application source code that works and being able to understand it's purpose. 
+1) I will not be able to do this without an available application source code that works. 
+2) Not realising the need for webhooks. 
+3) Not understanding the source code and why a committed change was not triggering anything until a classmate helped out and things started to make sense
 
+## What else did I try? 
+- Prior to this, i forked several repositories on the marketplace where I was exposed to connection to Heroku. 
+-  I successfully forked and executed an application code that works- Forwards message from a Channel to another Telegram Group. 
+-  However, when I tried to commit changes, there was nothing to "fire" and hence no workflow created in Github Actions and hence, project was scrapped. 
+-  Learning journey: Do not blindly copy quotes without understanding the mechanism. 
 
-## What didn't work? 
-- Uli's ghaction. 
-- Pushing new commits to the repository to trigger a workflow that does something with your code and trigger a notification to Telegram. 
-
+## Outcome 1- The Commit Changes worked!!!
+## Outcome 2- The bot works and a message was really sent!!! (after 10million trial and error)
+## Outcome 3- I learnt how to add images to ReadMe files too! 
