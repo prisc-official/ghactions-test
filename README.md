@@ -30,7 +30,7 @@ I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. However, I'l
 - Confirm the channelname by typing it. 
 - Obtain confirmation on successful connection! 
 
-7) Headed to IFTT webhook page and clicked documentations to get a unique IFTTT Webhook URL @ https://ifttt.com/maker_webhooks
+7) Headed to IFTTT webhook page and clicked documentations to get a unique IFTTT Webhook URL @ https://ifttt.com/maker_webhooks
 8) Updated the CURL function in the YML file with key changes made to the "event" and "unique IFTTT Webhook url link"
 9) Tested it out by committing changes on Readme/ YML/ add a new file, etc. Workflow was successfully fired and a message was triggered on Telegram!
 
