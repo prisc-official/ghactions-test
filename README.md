@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/98994112/159111464-5ab4087a-33d6-4919-bf79-6c47fef82405.jpg" width=20% height=20%>
 
 I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. However, I'll be joining a Digibank soon, and hope to contribute and make a difference by applying my knowledge during projects participation. 
-* [LinkedIn Profile] (https://www.linkedin.com/in/priscillialau/)
+* Here's my Linkedin Profile! (https://www.linkedin.com/in/priscillialau/)
 
 ## My Learning Objectives from GHACTIONS TEST- Challenge what I am clueless! 
 
@@ -50,8 +50,9 @@ I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. However, I'l
 - Last resort, ask a friend! 
 
 ## What else did I try? 
-- Prior to this, i forked several repositories on the marketplace where I was exposed to connection to Heroku. 
-- In one instance, I successfully forked and executed an application code that works- Forwards message from a Channel to another Telegram Group. 
+- Prior to this, i forked several repositories on the marketplace where I was exposed to connection to Heroku and BotFather. 
+- A lot of searching on Youtube to see what others have done but information were very scattered and complex. 
+- In one instance, I successfully forked and executed an application code that works- Successfully forwarded message from a Channel to another Telegram Group. 
 - However, when I tried to commit changes, there was nothing to "fire" and hence no workflow created in Github Actions. I did not understand the code and how Github Actions worked and hence, project was scrapped. 
 -  Learning journey: Do not blindly copy quotes without understanding the mechanism. 
 
