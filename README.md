@@ -58,4 +58,4 @@ I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. However, I'l
 
 ## Outcome 1- The Commit Changes worked!!!
 ## Outcome 2- The bot works and a message was really sent!!! (after 10million trial and error)
-## Outcome 3- I learnt how to add images to ReadMe files and used html to shrink the image size too! 
+## Outcome 3- I learnt how to add images to ReadMe files! 
