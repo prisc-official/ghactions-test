@@ -1,7 +1,7 @@
 ## GHactions test for my NUS Project
 
 ## About Me
-![photo_2022-03-19_15-09-33](https://user-images.githubusercontent.com/98994112/159111464-5ab4087a-33d6-4919-bf79-6c47fef82405.jpg)
+<img src="https://user-images.githubusercontent.com/98994112/159111464-5ab4087a-33d6-4919-bf79-6c47fef82405.jpg" width=50% height=50%>
 
 I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. 
 
