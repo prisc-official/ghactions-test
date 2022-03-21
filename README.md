@@ -53,6 +53,7 @@ I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. However, I'l
 - Is my IFTTT Webhook link correct? 
 - Is there some typo on my CURL functions? --> This was the case!
 - Last resort, ask a friend! 
+5) Making the key secret~ Possible, but more time needed. 
 
 ## What else did I try? 
 - Prior to this, i forked several repositories on the marketplace where I was exposed to connection to Heroku and BotFather. 
