@@ -27,8 +27,13 @@ I am a Corporate Banker and I haver ZERO IT/ Programming knowledge. However, I'l
 - Give permission to IFTTT bot on Telegram to connect with your account. 
 - Create a New Channel on Telegram; ensure channel is selected in IFTTT and calibrate the message structure in IFTTT. Make sure IFTTT is an administrator in the channel. 
 - Type: /connect_channel to IFTTT bot on Telegram 
+
+![image](https://user-images.githubusercontent.com/98994112/159193790-a7ae6337-da74-4047-9764-73b8ee48ffaf.png)
+
 - Confirm the channelname by typing it. 
 - Obtain confirmation on successful connection! 
+
+![image](https://user-images.githubusercontent.com/98994112/159193827-527fc885-d5e6-4c30-a7cf-2a941c1e255a.png)
 
 7) Headed to IFTTT webhook page and clicked documentations to get a unique IFTTT Webhook URL @ https://ifttt.com/maker_webhooks
 8) Updated the CURL function in the YML file with key changes made to the "event" and "unique IFTTT Webhook url link"
